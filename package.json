@@ -1,0 +1,16 @@
+{
+	"name": "cozy-browser-shell",
+	"version": "0.0.1",
+	"description": "A fake application.",
+	"cozy-type": "static",
+	"cozy-displayName": "Cozy Shell",
+	"icon-path": "logo.png",
+	"author": "aenario",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aenario/cozy-browser-shell.git"
+	},
+	"cozy-permissions": {
+		"Contact": "yolo"
+	}
+}
