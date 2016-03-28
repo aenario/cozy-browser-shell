@@ -1,0 +1,2 @@
+# cozy-browser-shell
+Test
