@@ -1,16 +1,16 @@
 {
-	"name": "cozy-browser-shell",
+	"name": "cozybrowserbench",
 	"version": "0.0.1",
 	"description": "A fake application.",
 	"cozy-type": "static",
-	"cozy-displayName": "Cozy Shell",
+	"cozy-displayName": "Cozy Browser Bench",
 	"icon-path": "logo.png",
 	"author": "aenario",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aenario/cozy-browser-shell.git"
+		"url": "https://github.com/cozy-labs/cozy-browser-shell.git"
 	},
 	"cozy-permissions": {
-		"Contact": "yolo"
+		"All": "This app needs all permissions to test apps."
 	}
 }
